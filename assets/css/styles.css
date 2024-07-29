@@ -752,6 +752,11 @@ body.dark-theme {
   margin-bottom: .75rem;
 }
 
+.projects__img {
+  width: 350px;
+  height: 250px;
+}
+
 .projects__button {
   position: absolute;
   right: 1rem;
